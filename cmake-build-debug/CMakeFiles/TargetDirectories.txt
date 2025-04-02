@@ -1,0 +1,3 @@
+F:/Program Files (x86)/test/Server/cmake-build-debug/CMakeFiles/Server.dir
+F:/Program Files (x86)/test/Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Program Files (x86)/test/Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir

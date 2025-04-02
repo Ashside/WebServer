@@ -1,0 +1,4 @@
+"E:\Program Files\JetBrains\apps\CLion\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S "F:\Program Files (x86)\test\Server" -B "F:\Program Files (x86)\test\Server\cmake-build-debug"
+-- Configuring done (0.2s)
+-- Generating done (0.1s)
+-- Build files have been written to: F:/Program Files (x86)/test/Server/cmake-build-debug
